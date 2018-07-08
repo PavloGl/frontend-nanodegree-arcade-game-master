@@ -5,11 +5,12 @@ UDACITY FEND NANODEGREE PROJECT
 
 # USING
 ---
-1. Clone repository
-2. Start using index.html
+1. Run [live][lin] 
+2. Clone repository
+	- Start using index.html
 3. Or you can run via terminal 
   `$ python -m SimpleHTTPServer`
-4. Navigate then to
+	- Navigate then to
    `http://localhost:8000`
 
 
@@ -39,3 +40,4 @@ Have fun :D
    [css]: <https://developer.mozilla.org/en-US/docs/Web/CSS>
    [html]: <https://developer.mozilla.org/en-US/docs/Learn/HTML>
    [mgh]: <https://github.com/PavloGl>
+   [lin]: <https://pavlogl.github.io/frontend-nanodegree-arcade-game-master/>
